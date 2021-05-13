@@ -1,0 +1,16 @@
+2.########################################
+
+Classe Conta{
+
+// Atributos:
+- numero: string
+- titular: string
+- saldo: float
+
+// Métodos:
++ Construtor {novaConta}
++ depositaValor();
++ sacaValor();
++ getSaldo();
++ setSaldo();
+}
